@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "All Tests",
+      "setup": "",
+      "run": "bash ./tests/grading.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 500
+    }
+  ]
+}
